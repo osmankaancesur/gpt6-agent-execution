@@ -1,0 +1,51 @@
+{
+  "captured_at": "2026-10-08",
+  "source": "Previously reviewed Drive research artifacts",
+  "original_source_files_modified": false,
+  "records": [
+    {
+      "file": "astra-best-practices(1).zip",
+      "project": "AI Skills & Workflows",
+      "source_sha256": "fd4b42e96be2acd97d26c4f419a99cbe577308375e8938b4c97a77cb54891637",
+      "source_bytes": 5790,
+      "status": "ARTIFACT_ADDED",
+      "paths": [
+        "archive/package-history/astra-best-practices(1).zip"
+      ],
+      "note": "Original file bytes preserved; active implementation and frozen inputs retained."
+    },
+    {
+      "file": "astra-best-practices-v1.1.zip",
+      "project": "AI Skills & Workflows",
+      "source_sha256": "4380ccff797b9a94da41e5a75911afd2e5187979b0113f027061e76d267915e4",
+      "source_bytes": 6194,
+      "status": "ARTIFACT_ADDED",
+      "paths": [
+        "archive/package-history/astra-best-practices-v1.1.zip"
+      ],
+      "note": "Original file bytes preserved; active implementation and frozen inputs retained."
+    },
+    {
+      "file": "astra-best-practices-v1.2.zip",
+      "project": "AI Skills & Workflows",
+      "source_sha256": "ecf79378afd5bee4f3bbb3c3ea4b39b1aaa85810d27763073e62ed9201b7a092",
+      "source_bytes": 6903,
+      "status": "ARTIFACT_ADDED",
+      "paths": [
+        "archive/package-history/astra-best-practices-v1.2.zip"
+      ],
+      "note": "Original file bytes preserved; active implementation and frozen inputs retained."
+    },
+    {
+      "file": "gpt-6-agent-execution-v1.3.zip",
+      "project": "AI Skills & Workflows",
+      "source_sha256": "872feca89e7d621ac86e1b06763b6fbd39730424d37bb747b843791a2d07df3c",
+      "source_bytes": 18034,
+      "status": "ARTIFACT_ADDED",
+      "paths": [
+        "archive/package-history/gpt-6-agent-execution-v1.3.zip"
+      ],
+      "note": "Original file bytes preserved; active implementation and frozen inputs retained."
+    }
+  ]
+}
